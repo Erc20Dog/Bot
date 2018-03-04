@@ -13,8 +13,9 @@ from telegram.contrib.botan import Botan
 import python3pickledb as pickledb
 
 # Configuration
-BOTNAME = 'usernameofbot'
-TOKEN = 'TOKEN'
+BOTNAME = 'cryptoraner_bot'
+TOKEN = '567707311:AAGiX-UByR8qj8pHiCodo7uiNmuq-jZb92s
+'
 BOTAN_TOKEN = 'BOTANTOKEN'
 
 help_text = 'Welcomes everyone that enters a group chat that this bot is a ' \
